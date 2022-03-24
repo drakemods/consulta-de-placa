@@ -10,4 +10,4 @@ const placa = prompt("Digite a placa do veiculo: ")
         console.log('Placa não encontrada, verifique a placa!')
     })
 
-    // Formato/placa de exemplo: BHS1192
+    // Exemplo de formato da placa: BHS1192
